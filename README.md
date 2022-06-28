@@ -1,2 +1,2 @@
 # database.py
-Creating a table
+SQL
